@@ -7,8 +7,6 @@ function App() {
       <h1>sup</h1>
 
           Learn React
-        </a>
-      </header>
     </div>
   );
 }
