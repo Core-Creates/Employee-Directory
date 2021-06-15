@@ -1,12 +1,21 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Employees from './components/Employees';
+import Header from './components/Header';
+import Main from './components/Main';
 
 function App() {
   return (
     <div className="App">
-      <h1>sup</h1>
+      <h1>Employee Directory</h1>
+      <div className="">
+      <Header></Header>
 
-          Learn React
+      </div>
+      <div className="">
+      <Employees></Employees>
+      </div>
+      
     </div>
   );
 }
