@@ -14,7 +14,7 @@ class Navbar extends Component{
                             height="30"
                             className="d-inline-block align-top"
                         />{' '}
-                        React Bootstrap
+                        Navbar
                     </Navbar.Brand>
                 </Navbar>
             </>
